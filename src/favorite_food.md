@@ -1,3 +1,7 @@
 # favorite food
 
-orange
+<<<<<<< HEAD
+grape
+=======
+grape
+>>>>>>> main
